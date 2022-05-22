@@ -1,0 +1,38 @@
+{
+  "name": "react-multi-step-form-with-material-ui",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "react-swipeable-views",
+    "form wizard",
+    "static site form",
+    "material-ui",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@date-io/date-fns": "1.3.5",
+    "@material-ui/core": "3.9.3",
+    "date-fns": "next",
+    "material-ui-pickers": "2.2.4",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "2.1.8",
+    "react-swipeable-views": "0.14.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
